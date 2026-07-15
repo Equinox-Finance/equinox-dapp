@@ -40,7 +40,7 @@ Prepare the documentation required to launch and operate the tokenized real esta
 | Follow docs to deploy testnet contracts | Flow is reproducible        |
 | Follow runbook for smoke checks         | Expected verifications pass |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-016/ISSUE_016_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-016/ISSUE_016_DETAILED.md
 
 ## Issue Metadata
 

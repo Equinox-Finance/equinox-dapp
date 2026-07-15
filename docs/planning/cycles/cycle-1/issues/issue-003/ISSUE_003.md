@@ -49,7 +49,7 @@ Implement the core storage structures for the property tokenization smart contra
 | Delete storage entry                | Entry removed             |
 | Storage key uniqueness              | No collisions             |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-003/ISSUE_003_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-003/ISSUE_003_DETAILED.md
 
 ## Issue Metadata
 

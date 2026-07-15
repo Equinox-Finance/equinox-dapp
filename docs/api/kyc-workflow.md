@@ -255,7 +255,7 @@ Until this guard is implemented, KYC approval is advisory, not enforced.
 
 ## Audit & Compliance Logging
 
-> **Stability Note - Issue #725:** Structured audit logging, tamper-evident event trails, and compliance export utilities for KYC actions are currently under design and development in [Issue #725 - Audit Log Models & Compliance Export](https://github.com/equinox/equinox/issues/725). The section below documents the **current** logging state. This section will be expanded significantly once Issue #725 is merged.
+> **Stability Note - Issue #725:** Structured audit logging, tamper-evident event trails, and compliance export utilities for KYC actions are currently under design and development in [Issue #725 - Audit Log Models & Compliance Export](https://github.com/Equinox-Finance/equinox-dapp/issues/725). The section below documents the **current** logging state. This section will be expanded significantly once Issue #725 is merged.
 
 ### Current logging state
 

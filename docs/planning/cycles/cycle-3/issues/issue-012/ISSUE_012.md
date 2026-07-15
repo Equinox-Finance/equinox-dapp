@@ -40,7 +40,7 @@ Create the service layer that sends operational and investor-facing notification
 | User queries notifications         | Relevant list returned |
 | Delivery attempt fails temporarily | Retry state captured   |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-012/ISSUE_012_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-012/ISSUE_012_DETAILED.md
 
 ## Issue Metadata
 

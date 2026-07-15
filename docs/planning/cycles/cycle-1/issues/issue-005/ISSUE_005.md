@@ -46,7 +46,7 @@ Implement the full CRUD (Create, Read, Update, Delete) operations in the Propert
 | POST /properties creates property           | Returns created property |
 | DELETE /properties/:id removes property     | Returns 204              |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-005/ISSUE_005_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-005/ISSUE_005_DETAILED.md
 
 ## Issue Metadata
 

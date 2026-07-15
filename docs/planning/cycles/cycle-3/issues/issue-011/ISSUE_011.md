@@ -40,7 +40,7 @@ Upgrade the investor experience with real data-driven portfolio analytics, prope
 | Portfolio contains mixed assets     | Aggregations remain accurate |
 | Mobile dashboard view               | Charts remain usable         |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-011/ISSUE_011_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-011/ISSUE_011_DETAILED.md
 
 ## Issue Metadata
 

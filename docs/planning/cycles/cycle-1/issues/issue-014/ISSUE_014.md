@@ -41,7 +41,7 @@ Create shared pagination types and utility functions for consistent pagination h
 | calculateTotalPages(101, 20) | 6               |
 | Default page size            | 20              |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-014/ISSUE_014_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-014/ISSUE_014_DETAILED.md
 
 ## Issue Metadata
 

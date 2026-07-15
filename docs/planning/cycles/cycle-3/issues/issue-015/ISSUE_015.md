@@ -37,7 +37,7 @@ Create shared utilities and conventions for measuring platform health, latency, 
 | Serialize metric payload    | Stable payload shape |
 | Reuse helper across modules | No type errors       |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-015/ISSUE_015_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-015/ISSUE_015_DETAILED.md
 
 ## Issue Metadata
 

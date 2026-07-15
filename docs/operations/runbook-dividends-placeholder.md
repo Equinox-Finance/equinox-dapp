@@ -2,7 +2,7 @@
 
 **Status: PLACEHOLDER - Pending Issue #722**
 
-> This document is a structural reservation. The Dividend and Cashflow Distribution workflow does not yet exist in the codebase. It will be implemented and merged as part of [Issue #722 - Dividend & Cashflow Distribution](https://github.com/equinox/equinox/issues/722).
+> This document is a structural reservation. The Dividend and Cashflow Distribution workflow does not yet exist in the codebase. It will be implemented and merged as part of [Issue #722 - Dividend & Cashflow Distribution](https://github.com/Equinox-Finance/equinox-dapp/issues/722).
 >
 > **When Issue #722 is merged:** delete this notice block and replace the sections below with the actual implementation details, CLI commands, and failure modes. Follow the same format as `runbook-emergency-pause.md`.
 
@@ -83,7 +83,7 @@ The following failure modes are anticipated for the dividend workflow. Detail th
 
 ## References
 
-- [Issue #722 - Dividend & Cashflow Distribution](https://github.com/equinox/equinox/issues/722) - implementation tracking
+- [Issue #722 - Dividend & Cashflow Distribution](https://github.com/Equinox-Finance/equinox-dapp/issues/722) - implementation tracking
 - `docs/operations/runbook-emergency-pause.md` - if a distribution event triggers anomalous behavior, pause procedure applies
 - `docs/api/minting-workflow.md` - share ownership context
 - `docs/api/kyc-workflow.md` - investor eligibility context

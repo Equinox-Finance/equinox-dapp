@@ -39,7 +39,7 @@ Build shared testing utilities and staging fixtures that make it possible to val
 | Reuse fixtures across suites             | No duplicated critical setup    |
 | Execute smoke tests in clean environment | Deterministic baseline behavior |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-004/ISSUE_004_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-004/ISSUE_004_DETAILED.md
 
 ## Issue Metadata
 

@@ -38,7 +38,7 @@ Finalize the responsive experience across launch-critical pages so prospective i
 | Complete core investment flow on mobile | No blocking UI issue     |
 | Open lending and KYC flows on mobile    | Layout remains usable    |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-017/ISSUE_017_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-017/ISSUE_017_DETAILED.md
 
 ## Issue Metadata
 

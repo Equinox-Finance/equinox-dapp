@@ -46,7 +46,7 @@ Define and implement contract events for the property tokenization and lending c
 | Deposit event               | Pool, amount, shares correct |
 | Borrow event                | Collateral info included     |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-011/ISSUE_011_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-011/ISSUE_011_DETAILED.md
 
 ## Issue Metadata
 

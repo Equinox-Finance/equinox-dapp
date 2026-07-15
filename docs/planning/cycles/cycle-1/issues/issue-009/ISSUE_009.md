@@ -45,7 +45,7 @@ Implement a reusable request validation middleware for Elysia that uses Zod sche
 | Extra fields stripped    | Only valid fields passed    |
 | Nested object validation | Deep validation works       |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-009/ISSUE_009_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-009/ISSUE_009_DETAILED.md
 
 ## Issue Metadata
 

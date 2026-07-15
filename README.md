@@ -4,10 +4,10 @@
 
 **Bridging Real Estate & DeFi on Stellar**
 
-[![Monorepo CI](https://github.com/equinox/equinox/actions/workflows/monorepo-ci.yml/badge.svg)](https://github.com/equinox/equinox/actions/workflows/monorepo-ci.yml)
-[![API CI](https://github.com/equinox/equinox/actions/workflows/api-ci.yml/badge.svg)](https://github.com/equinox/equinox/actions/workflows/api-ci.yml)
-[![Webapp CI](https://github.com/equinox/equinox/actions/workflows/webapp-ci.yml/badge.svg)](https://github.com/equinox/equinox/actions/workflows/webapp-ci.yml)
-[![Contracts CI](https://github.com/equinox/equinox/actions/workflows/contracts-ci.yml/badge.svg)](https://github.com/equinox/equinox/actions/workflows/contracts-ci.yml)
+[![Monorepo CI](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/monorepo-ci.yml/badge.svg)](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/monorepo-ci.yml)
+[![API CI](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/api-ci.yml/badge.svg)](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/api-ci.yml)
+[![Webapp CI](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/webapp-ci.yml/badge.svg)](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/webapp-ci.yml)
+[![Contracts CI](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/contracts-ci.yml/badge.svg)](https://github.com/Equinox-Finance/equinox-dapp/actions/workflows/contracts-ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Equinox Finance** is an institutional-grade platform bridging traditional real estate with decentralized finance (DeFi) on Stellar. Property owners tokenize real-world assets (RWA) into on-chain shares, and investors can then use those shares as collateral to access DeFi lending pools — all on Stellar's high-throughput, low-cost network.
@@ -133,7 +133,7 @@ Investor → Requests Loan → Frontend Calculates Available Collateral
 ### Installation
 
 ```bash
-git clone https://github.com/equinox/equinox.git
+git clone https://github.com/Equinox-Finance/equinox-dapp.git
 cd equinox
 bun install
 ```

@@ -56,7 +56,7 @@ Replace the mock wallet context with a real Stellar wallet integration using Ste
 - Stellar Wallets Kit Documentation: https://stellarwalletskit.dev
 - Example PR: https://github.com/ScaffoldRust/SRust-Basic-Stellar-nextjs-bun/pull/16
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-008/ISSUE_008_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-008/ISSUE_008_DETAILED.md
 
 ## Issue Metadata
 

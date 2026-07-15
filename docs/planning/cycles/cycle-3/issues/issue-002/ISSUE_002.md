@@ -47,7 +47,7 @@ Build the API-side valuation service that ingests, validates, stores, and expose
 | Request valuation history                     | Ordered history returned           |
 | Contract-facing payload generation            | Normalized output is deterministic |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-002/ISSUE_002_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-002/ISSUE_002_DETAILED.md
 
 ## Issue Metadata
 

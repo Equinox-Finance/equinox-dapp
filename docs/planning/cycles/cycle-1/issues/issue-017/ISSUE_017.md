@@ -43,7 +43,7 @@ Implement a structured logging service for the API that provides consistent log 
 | Request log          | Method, path, duration logged |
 | Log filtering        | Debug hidden at info level    |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-017/ISSUE_017_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-017/ISSUE_017_DETAILED.md
 
 ## Issue Metadata
 

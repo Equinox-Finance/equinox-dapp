@@ -42,7 +42,7 @@ Implement the contract-side logic required to distribute real estate cashflows t
 | Investor attempts duplicate claim      | Transaction fails              |
 | Property with no eligible holders      | Safe no-op or explicit failure |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-006/ISSUE_006_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-006/ISSUE_006_DETAILED.md
 
 ## Issue Metadata
 

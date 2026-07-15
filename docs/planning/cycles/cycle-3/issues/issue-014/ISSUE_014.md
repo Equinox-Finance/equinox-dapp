@@ -37,7 +37,7 @@ Finish the visual polish required for launch by making theming production-ready 
 | Reload browser                      | Selected theme persists  |
 | First visit with system light theme | Light theme is respected |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-014/ISSUE_014_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-014/ISSUE_014_DETAILED.md
 
 ## Issue Metadata
 

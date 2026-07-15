@@ -51,7 +51,7 @@ Implement a centralized API client service layer for the webapp to communicate w
 | Network timeout triggers error    | TimeoutError thrown    |
 | Retry on 5xx errors               | 3 retries attempted    |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-004/ISSUE_004_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-004/ISSUE_004_DETAILED.md
 
 ## Issue Metadata
 

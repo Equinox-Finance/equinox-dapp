@@ -46,7 +46,7 @@ Create a comprehensive error handling system for the shared library that can be 
 | Error serialization                   | Consistent JSON format          |
 | isAppError type guard                 | Correctly identifies error type |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-006/ISSUE_006_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-006/ISSUE_006_DETAILED.md
 
 ## Issue Metadata
 

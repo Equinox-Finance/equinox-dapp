@@ -37,7 +37,7 @@ Define shared audit log contracts and export utilities that support internal rev
 | Validate malformed audit payload | Validation failure      |
 | Include actor and timestamp data | Required fields present |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-009/ISSUE_009_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-009/ISSUE_009_DETAILED.md
 
 ## Issue Metadata
 

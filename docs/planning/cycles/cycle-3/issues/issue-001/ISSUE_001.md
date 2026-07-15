@@ -45,7 +45,7 @@ Create a production-grade deployment workflow for the tokenized real estate cont
 | Run post-deploy smoke checks                  | Expected contract reads succeed    |
 | Switch app config to deployed addresses       | Frontend and API boot successfully |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-001/ISSUE_001_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-001/ISSUE_001_DETAILED.md
 
 ## Issue Metadata
 

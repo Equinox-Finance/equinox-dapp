@@ -34,7 +34,7 @@ Required only if you intend to work on smart contracts.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/equinox/equinox.git
+git clone https://github.com/Equinox-Finance/equinox-dapp.git
 cd equinox
 ```
 

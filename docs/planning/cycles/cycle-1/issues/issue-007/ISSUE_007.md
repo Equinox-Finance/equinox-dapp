@@ -49,7 +49,7 @@ Implement the core storage structures for the DeFi lending pool smart contract o
 | Utilization rate calculation   | Correct percentage        |
 | Multiple pools storage         | Isolated correctly        |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-007/ISSUE_007_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-007/ISSUE_007_DETAILED.md
 
 ## Issue Metadata
 

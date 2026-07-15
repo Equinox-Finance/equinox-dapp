@@ -43,7 +43,7 @@ Create utility functions for consistent date and number formatting across the ap
 | formatRelativeTime(pastDate) | "2 hours ago"   |
 | abbreviateNumber(1500000)    | "1.5M"          |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-010/ISSUE_010_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-010/ISSUE_010_DETAILED.md
 
 ## Issue Metadata
 

@@ -40,7 +40,7 @@ Strengthen emergency controls in the real estate contracts by introducing timed 
 | Admin attempts early recovery          | Rejected before timelock |
 | Timelock expires and recovery proceeds | Contract resumes safely  |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-010/ISSUE_010_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-010/ISSUE_010_DETAILED.md
 
 ## Issue Metadata
 

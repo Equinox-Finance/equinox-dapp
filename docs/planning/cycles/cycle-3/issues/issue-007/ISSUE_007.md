@@ -40,7 +40,7 @@ Build a professional operations dashboard that allows the team to review, verify
 | Reviewer approves or rejects asset     | Status updates persist  |
 | Non-admin user accesses admin route    | Access denied           |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-007/ISSUE_007_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-3/issues/issue-007/ISSUE_007_DETAILED.md
 
 ## Issue Metadata
 

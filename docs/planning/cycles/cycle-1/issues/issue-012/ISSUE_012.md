@@ -40,7 +40,7 @@ Create reusable skeleton loading components for the webapp. Skeletons provide vi
 | SkeletonCard renders     | Card-shaped placeholder      |
 | Custom className applied | Styles merge correctly       |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-012/ISSUE_012_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-012/ISSUE_012_DETAILED.md
 
 ## Issue Metadata
 

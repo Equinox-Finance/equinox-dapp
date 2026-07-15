@@ -58,7 +58,7 @@ Set up PostgreSQL database connection and Drizzle ORM for the API. This includes
 | Health check with active connection  | Returns healthy status    |
 | Health check with dead connection    | Returns unhealthy status  |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-002/ISSUE_002_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-002/ISSUE_002_DETAILED.md
 
 ## Issue Metadata
 

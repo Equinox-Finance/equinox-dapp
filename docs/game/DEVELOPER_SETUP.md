@@ -63,7 +63,7 @@ stellar --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/equinox/equinox.git
+git clone https://github.com/Equinox-Finance/equinox-dapp.git
 cd equinox
 
 # Install all dependencies

@@ -52,7 +52,7 @@ Implement Zod validation schemas corresponding to all TypeScript types defined i
 | Invalid interest rate (negative)         | Throws ZodError                    |
 | Schema inference matches TypeScript type | Type compatibility                 |
 
-- If you want to read more about this issue, you can read the https://github.com/equinox/equinox/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-001/ISSUE_001_DETAILED.md
+- If you want to read more about this issue, you can read the https://github.com/Equinox-Finance/equinox-dapp/tree/develop/equinox-defi-rwa/docs/planning/cycles/cycle-1/issues/issue-001/ISSUE_001_DETAILED.md
 
 ## Issue Metadata
 

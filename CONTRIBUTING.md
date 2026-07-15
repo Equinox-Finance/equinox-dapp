@@ -52,7 +52,7 @@ If you have been granted write access to the repository for maintenance purposes
 
 ### 1. Fork the repository
 
-Click the **Fork** button on the [equinox/equinox](https://github.com/equinox/equinox) GitHub page. This creates a copy of the repository under your account (`github.com/<your-username>/equinox`).
+Click the **Fork** button on the [equinox/equinox](https://github.com/Equinox-Finance/equinox-dapp) GitHub page. This creates a copy of the repository under your account (`github.com/<your-username>/equinox`).
 
 ### 2. Clone your fork locally
 
@@ -66,7 +66,7 @@ cd equinox
 This is critical. The `upstream` remote points to the original repository. You will use it to pull in changes from the main project without going through your fork.
 
 ```bash
-git remote add upstream https://github.com/equinox/equinox.git
+git remote add upstream https://github.com/Equinox-Finance/equinox-dapp.git
 ```
 
 Verify your remotes are configured correctly:
@@ -75,8 +75,8 @@ Verify your remotes are configured correctly:
 git remote -v
 # origin    https://github.com/<your-username>/equinox.git (fetch)
 # origin    https://github.com/<your-username>/equinox.git (push)
-# upstream  https://github.com/equinox/equinox.git (fetch)
-# upstream  https://github.com/equinox/equinox.git (push)
+# upstream  https://github.com/Equinox-Finance/equinox-dapp.git (fetch)
+# upstream  https://github.com/Equinox-Finance/equinox-dapp.git (push)
 ```
 
 ### 4. Install dependencies
@@ -564,6 +564,6 @@ If you accidentally commit a secret, do not attempt to rewrite history yourself 
 
 ## Questions
 
-If you have questions about any part of this process, open a [GitHub Discussion](https://github.com/equinox/equinox/discussions) or comment on the relevant issue. Do not open a pull request to ask a question.
+If you have questions about any part of this process, open a [GitHub Discussion](https://github.com/Equinox-Finance/equinox-dapp/discussions) or comment on the relevant issue. Do not open a pull request to ask a question.
 
 We are committed to making this a welcoming and productive contribution experience. When in doubt, ask.
